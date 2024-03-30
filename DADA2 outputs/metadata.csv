@@ -1,0 +1,14 @@
+SampleID;Type;Field_source
+B11M-1-16s-duplicate_S57_L001_R1;Dust;Peanut
+B11N-1-16s-duplicate_S58_L001_R1;Dust;Peanut
+B11N-2-16s_S72_L001_R1;Dust;Peanut
+B11S-1-16s_S73_L001_R1;Dust;Peanut
+B11S-2-16s_S74_L001_R1;Dust;Peanut
+Dust-13-16s_S47_L001_R1;Dust;Maize
+Dust-14-16s_S48_L001_R1;Dust;Maize
+Dust-16-16s_S50_L001_R1;Dust;Maize
+Dust-17-16s_S51_L001_R1;Dust;Maize
+Dust-19-16s_S53_L001_R1;Dust;Sunflower
+Dust-20-16s_S54_L001_R1;Dust;Sunflower
+Dust-21-16s_S55_L001_R1;Dust;Sunflower
+Dust-22-16s_S56_L001_R1;Dust;Sunflower
